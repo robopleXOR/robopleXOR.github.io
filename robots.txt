@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roboplexor.github.io/sitemap.xml
